@@ -67,7 +67,5 @@ dependencies {
     implementation(libs.hilt.android)
     ksp(libs.hilt.android.compiler)
 
-    testImplementation(libs.mockito.core)
-    testImplementation(libs.mockito.mockito.inline)
 
 }
